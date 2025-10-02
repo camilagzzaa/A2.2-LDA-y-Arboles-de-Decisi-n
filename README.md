@@ -11,6 +11,6 @@ Se evalúa la precisión de cada modelo mediante métricas como **accuracy, prec
 
 ## Índice
 
-1. [Notebook](./A2.2%20LDA%20y%20Arboles%20de%20Decision.ipynb)  
-2. [HTML del notebook](./A2.2%20LDA%20y%20Arboles%20de%20Decision.html)  
+1. [Notebook](./A2.2%20LDA%20y%20Árboles%20de%20Decision.ipynb)  
+2. [HTML del notebook](./A2.2%20LDA%20y%20Árboles%20de%20Decision.html)  
 3. [Dataset](./A2.2%20Matches.csv)  
